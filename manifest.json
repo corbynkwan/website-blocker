@@ -1,0 +1,16 @@
+  {
+    "name": "Website blocker",
+    "version": "1.0",
+    "description": "Blocks websites using regex.",
+    "permissions": [
+    	"webRequest",
+    	"tabs"
+    ],
+    "background": {
+      "scripts": [
+      	"main.js"
+      ],
+      "persistent": true
+    },
+    "manifest_version": 2
+  }
