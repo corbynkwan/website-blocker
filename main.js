@@ -30,30 +30,6 @@ function matchTab(url, tabid) {
                 "exceptions": null
             }
         },
-        "freestylersworld": {
-            "block_message": null,
-            "block_redirect": "https://www.coursera.org/learn/machine-learning/home/welcome",
-            "block": {
-                "regex": /freestylersworld\.com(.*)/i,
-                "exceptions": null
-            }
-        },
-        "fgunz": {
-            "block_message": null,
-            "block_redirect": "https://www.coursera.org/learn/machine-learning/home/welcome",
-            "block": {
-                "regex": /fgunz\.net(.*)/i,
-                "exceptions": null
-            }
-        },
-        "redditgunz": {
-            "block_message": null,
-            "block_redirect": "https://www.coursera.org/learn/machine-learning/home/welcome",
-            "block": {
-                "regex": /reddit\.com\/r\/gunz(.*)/i,
-                "exceptions": null
-            }
-        },
         "redditnba": {
             "block_message": null,
             "block_redirect": "https://www.coursera.org/learn/machine-learning/home/welcome",
